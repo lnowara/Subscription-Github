@@ -1,0 +1,31 @@
+{
+  "id": "e5060371-6a40-4508-8bb3-aa049617a367",
+  "name": "Subscription_GitHub",
+  "publisher": "BC Tectdays",
+  "version": "1.0.0.0",
+  "brief": "Subscription_GitHub to use with NAV Tectdays",
+  "description": "Subscription_GitHub to use with NAV Tectdays",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Images/Logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Subscription_GitHub.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0"
+}
