@@ -1,2 +1,13 @@
 *.app
 *.xlf
+
+*/.alcache/*
+*/.alpackages/*
+*/.altemplates/*
+*/.snapshots/*
+*/.vscode/*
+*/.vscode/launch.json
+*/.vscode/tasks.json
+*/.vscode/settings.json
+*/.vscode/extensio
+*/.vscode/rad.json
